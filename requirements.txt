@@ -16,7 +16,7 @@ google-cloud-bigquery==1.16.0  # via pandas-gbq
 google-cloud-core==1.0.2  # via google-cloud-bigquery
 google-resumable-media==0.3.2  # via google-cloud-bigquery
 googleapis-common-protos==1.6.0  # via google-api-core
-httplib2==0.13.0          # via google-api-python-client, google-auth-httplib2, oauth2client
+httplib2==0.18.0          # via google-api-python-client, google-auth-httplib2, oauth2client
 idna==2.8                 # via requests
 numpy==1.16.4             # via pandas
 oauth2client==4.1.3
