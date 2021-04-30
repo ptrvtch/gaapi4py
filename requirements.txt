@@ -34,7 +34,7 @@ requests==2.22.0          # via google-api-core, requests-oauthlib
 rsa==4.0                  # via google-auth, oauth2client
 six==1.12.0               # via google-api-core, google-api-python-client, google-auth, google-resumable-media, oauth2client, protobuf, python-dateutil
 uritemplate==3.0.0        # via google-api-python-client
-urllib3==1.25.3           # via requests
+urllib3==1.25.8           # via requests
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools==41.0.1        # via google-api-core, pandas-gbq, protobuf, pydata-google-auth
