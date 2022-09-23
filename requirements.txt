@@ -23,7 +23,7 @@ oauth2client==4.1.3
 oauthlib==3.0.1           # via requests-oauthlib
 pandas-gbq==0.10.0
 pandas==0.24.2
-protobuf==3.8.0           # via google-api-core, google-cloud-bigquery, googleapis-common-protos
+protobuf==3.18.3           # via google-api-core, google-cloud-bigquery, googleapis-common-protos
 pyasn1-modules==0.2.5     # via google-auth, oauth2client
 pyasn1==0.4.5             # via oauth2client, pyasn1-modules, rsa
 pydata-google-auth==0.1.3  # via pandas-gbq
